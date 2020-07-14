@@ -1,4 +1,4 @@
-# Let's Get **Started**
+# Quick Intro to Parallelism
 
 ---
 
